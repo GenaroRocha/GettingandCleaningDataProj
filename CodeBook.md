@@ -1,6 +1,6 @@
-With this CodeBook we describe the transformations made to follow the instructions from the project:
-Step 1: Download the dataset
-Dataset downloaded and extracted under a folder called UCI HAR Dataset
+With this CodeBook we describe the transformations made to follow the instructions from the project:\\
+Step 1: Download the dataset\\
+Dataset downloaded and extracted under a folder called UCI HAR Dataset\\
 Step 2: Assign all data to variables
 features <- features.txt | 561 rows, 2 columns
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ.
